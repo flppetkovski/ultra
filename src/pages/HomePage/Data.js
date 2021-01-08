@@ -1,0 +1,15 @@
+export const homeObjOne = {
+primar: true,
+lightBg: false,
+imgStart: "",
+lightTopLine: true,
+lightTextDesc: true,
+buttonLabel: "Get Started",
+description: "We help bussiness owners increase their revenue. Our team of unique specialists can help you achieve your bussiness goals",
+headline: "Lead Generation Specialist for Online Bussinesses",
+lightText: true,
+topLine: "Marketing Agency",
+img: require("../../images/svg-1.svg"),
+alt: "Image",
+start: "", 
+}
